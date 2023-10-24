@@ -1,7 +1,7 @@
 ## Welcome to NezFi 👋
 In today's rapidly evolving financial landscape, our mission is clear: to empower individuals and businesses by bridging the worlds of traditional finance and decentralized finance (DeFi).
 
-Our Company seeks to revolutionize financial services by combining the convenience of mobile money with the limitless potential of DeFi. With a foundation on a high-performance blockchain, we aim to provide users with a secure, accessible, and feature-rich financial ecosystem.
+Our Company seeks to revolutionize financial services by combining the convenience of mobile finance with the limitless potential of DeFi. With a foundation on a high-performance blockchain, we aim to provide users with a secure, accessible, and feature-rich financial ecosystem.
 <!--
 
 **Here are some ideas to get you started:**
